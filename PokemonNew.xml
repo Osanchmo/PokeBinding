@@ -22,10 +22,10 @@
         <Etapa>Fase 2</Etapa>
     </Pokemon>
     <Pokemon>
-        <Nombre Classe="Electrico">Pikachu</Nombre>
-        <PV>140</PV>
-        <Ataque1>Impactrueno</Ataque1>
-        <Ataque2>Trueno</Ataque2>
-        <Etapa>Etapa fuelte</Etapa>
+        <Nombre Classe="psiquico">mew</Nombre>
+        <PV>200</PV>
+        <Ataque1>rayo</Ataque1>
+        <Ataque2>rayo solar</Ataque2>
+        <Etapa>legendario</Etapa>
     </Pokemon>
 </Pokedex>
